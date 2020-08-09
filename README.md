@@ -1,2 +1,2 @@
 # julia-start
-Learning Julia like a champ
+Learning Julia like a champ.
