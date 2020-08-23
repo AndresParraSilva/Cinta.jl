@@ -21,7 +21,7 @@ Ejemplo del archivo Notas.txt:
 09/08/2020 06:40 cinta 604
 """
 function cinta()
-	open("/home/andres/Dropbox/Notas.txt") do f
+	open("datos_cinta.txt") do f
 		base = 10.5
 		var = .2
 		step = 0
